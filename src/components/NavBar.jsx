@@ -23,6 +23,10 @@ const NavBar = () => {
       label: "Account",
       href: "/account"
     },
+    {
+      label: "Dashboard",
+      href: "/dashboard"
+    }
   ];
 
   return (
